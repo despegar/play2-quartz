@@ -2,7 +2,7 @@ organization := "mchv"
 
 name := """play2-quartz"""
 
-version := "1.1.1"
+version := "1.1.2"
 
 scalaVersion := "2.11.7"
 
